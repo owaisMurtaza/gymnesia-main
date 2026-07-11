@@ -1,0 +1,16 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+config/keys.ts 
+# macOS
+.DS_Store
+# test snapshots
+components/__tests__/__snapshots__/
